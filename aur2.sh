@@ -17,7 +17,7 @@ rm -rf paru-bin
 paru -Syyu --noconfirm
 printf 'y\n\y\n' | paru -Scc
 
-LIST=(mangohud-opengl2 mangohud-opengl2-common pygtk openbox-patched mkinitcpio-openswap plymouth oranchelo-icon-theme tela-icon-theme grub-themes-git obmenu-generator ttf-comfortaa ttf-iosevka perl-linux-desktopfiles loksh-git opensnap arc-gtk-theme-git openbox-arc-git python-gettext suru-plus-aspromauros-git suru-plus-dark-git suru-plus-git suru-plus-pack-git suru-plus-telinkrin-git themix-icons-suru-plus-aspromauros-git themix-icons-suru-plus-git themix-full-git themix-gui-git perl-encode-detect perl-authen-pam suru-icon-theme-git)
+LIST=(mangohud-opengl2 mangohud-opengl2-common pygtk openbox-patched mkinitcpio-openswap plymouth oranchelo-icon-theme tela-icon-theme obmenu-generator ttf-comfortaa ttf-iosevka perl-linux-desktopfiles loksh-git opensnap arc-gtk-theme-git openbox-arc-git python-gettext suru-plus-aspromauros-git suru-plus-dark-git suru-plus-git suru-plus-pack-git suru-plus-telinkrin-git themix-icons-suru-plus-aspromauros-git themix-icons-suru-plus-git themix-full-git themix-gui-git perl-encode-detect perl-authen-pam suru-icon-theme-git)
 #Removed due to large size 
 #mwoffliner
 
